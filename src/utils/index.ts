@@ -6,7 +6,7 @@ interface JoysResponse {
 }
 
 export const fetchJoys = async (cohort: string): Promise<JoysResponse> => {
-  const URL = `http://localhost:3000/api/joys/${cohort}`;
+  const URL = `${process.env.BASE_URL}/api/joys/${cohort}`;
   const res = await fetch(URL);
   const data = await res.json();
   if (!res.ok) throw Error("Could not get Joys!");
@@ -17,7 +17,7 @@ export const createJoy = async (
   cohort: string,
   formData: Joy
 ): Promise<{ joy: JoyWithId; message: string }> => {
-  const URL = `http://localhost:3000/api/joys/${cohort}`;
+  const URL = `${process.env.BASE_URL}/api/joys/${cohort}`;
   const res = await fetch(URL, {
     method: "POST",
     headers: {
