@@ -1,0 +1,82 @@
+{
+  "joys": [
+    {
+      "id": 0,
+      "cohort": "Deloitte",
+      "name": "Fenella Powell",
+      "date": "15/04/2024",
+      "youtube": {
+        "id": "rmdiaQM43bk",
+        "title": "Walking on Sunshine",
+        "artist": "Katrina & The Waves"
+      },
+      "quote": {
+        "message": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+        "name": "A.A. Milne"
+      },
+      "message": "Good Morning 👋\nNow that you are all settled into Makers I thought I would pop in and start the ✨ Daily Joy Challenge ✨\nEvery morning one member of the cohort posts some motivational / inspirational / words of their own or a quote, along with a song of their choice to bring some joy to the cohort for the day 💪💛 then tags the next day's joy bringer!\nMy choice of song as a classic wake up song Walking on Sunshine\nMy go to quote is also this one\n“You are braver than you believe, stronger than you seem, and smarter than you think.” - A.A. Milne\nI tag @Adrian to bring in the joy tomorrow! Have a great day!"
+    },
+    {
+      "id": 1,
+      "cohort": "Deloitte",
+      "name": "Adrian Burac",
+      "date": "16/04/2024",
+      "youtube": {
+        "id": "0NpUmajMDQw",
+        "title": "Bittersweet Symphony",
+        "artist": "Gamper & Dadoni feat. Emily Roberts"
+      },
+      "quote": {
+        "message": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "name": "Nelson Mandela"
+      },
+      "message": "Good Morning ☀️\nThank you @Fenella Powell for the nomination!\nMy song choice for this morning is:\nGAMPER & DADONI - Bittersweet Symphony (feat. Emily Roberts)\n\"The greatest glory in living lies not in never falling, but in rising every time we fall.\" - Nelson Mandela\nI tag @Rachel Roberts! 😁\nWish you all happy coding and a great day ahead!"
+    },
+    {
+      "id": 2,
+      "cohort": "Deloitte",
+      "name": "Rikie Patrick",
+      "date": "07/05/2024",
+      "youtube": {
+        "id": "phXRX1p8woY",
+        "title": "We Are All We Need",
+        "artist": "Above and Beyond"
+      },
+      "quote": {
+        "message": "There is still a lot to learn and there is always great stuff out there. Even mistakes can be wonderful",
+        "name": "Robin Williams"
+      },
+      "message": "Thanks @Shirin for the nomination in the ✨ Daily Joy Challenge ✨\nI thought I would revive a project for the Joy Challenge whilst doing the Makers Bootcamp last time. Please enjoy!.\nMy choice of song comes from a trio I have seen many times. Their sets always fill the room with such happiness and euphoria! Zoë Johnston features with stunning vocals on a song by Above and Beyond called “We’re All We Need”.\nMy inspirational quote comes from an incredible actor; the late, great and talented Robin Williams who dedicated his life to putting smile on other peoples face.\n“There is still a lot to learn and there is always great stuff out there. Even mistakes can be wonderful”\n ― Robin Williams\n@Pauline Lelièvre 🫵 You're up next!\nHave an awesome day! 👋"
+    }
+  ],
+  "cohort": {
+    "names": [
+      "Adrian Burac",
+      "Alex Nazemi",
+      "Bethany Hall",
+      "Charlie Giaretta",
+      "Daisy (Yuanmeng) Liu",
+      "Daniel Campbell",
+      "Destin Cleo Kouamba",
+      "Emily Hardy",
+      "Ethan Dunwiddie",
+      "Holly Rees",
+      "Laura Selby",
+      "Luke Atherton",
+      "Makini Kayira",
+      "Mark Lovejoy",
+      "Neil Davison",
+      "Niki Stefanopoulou",
+      "Pauline Lelièvre",
+      "Rachel Roberts",
+      "Rikie Patrick",
+      "Samuel Arrowsmith",
+      "Shirin Ebrahimi",
+      "Shoaib Latif",
+      "Umayr Hussain",
+      "Will Davies",
+      "William Keay",
+      "Zach Delapenha"
+    ]
+  }
+}
