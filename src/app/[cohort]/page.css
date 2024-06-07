@@ -216,3 +216,7 @@ dialog {
   width: 100%;
   max-width: 500px;
 }
+
+::backdrop {
+  background-color: rgba(0, 0, 0, 0.7);
+}
